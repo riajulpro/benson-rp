@@ -8,7 +8,7 @@ import Token from "@/components/ui/Token";
 
 const Home = () => {
   return (
-    <main>
+    <main className="overflow-x-auto">
       <Header />
       <About />
       <Note />

@@ -2,11 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
-  position: relative;
-  overflow-x: hidden;
-}
-
 @layer components {
   .container {
     @apply max-w-[1355px] mx-auto;
