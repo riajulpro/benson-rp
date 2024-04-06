@@ -6,7 +6,7 @@ const Buy = () => {
       <h1 className="text-[24px] lg:text-[60px] leading-[65px] text-white text-center">
         How To Buy
       </h1>
-      <div className="lg:m-0 max-w-[985px] mx-auto bg-white border-[4px] border-action p-5 lg:px-[70px] lg:py-[46px] mt-[18px] text-[24px] leading-[32px] rounded-[40px]">
+      <div className="max-w-[985px] mx-auto bg-white border-[4px] border-action p-5 lg:px-[70px] lg:py-[46px] mt-[18px] text-[24px] leading-[32px] rounded-[40px]">
         <div className="flex gap-1">
           <div>1.</div>
           <div>
