@@ -9,7 +9,7 @@ const pangolin = Pangolin({
 const Note = () => {
   return (
     <section className="relative container flex flex-col items-center lg:mt-[230px]">
-      <h1 className="text-[24px] mb-5 lg:mb-0 lg:text-[60px] leading-[65px] text-white">
+      <h1 className="text-[24px] mb-5 lg:mb-0 lg:text-[60px] lg:leading-[65px] text-white text-center">
         $BENSON Note to Anon Reader
       </h1>
       <div className="relative lg:mt-[107px]">
